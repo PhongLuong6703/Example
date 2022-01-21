@@ -1,0 +1,2 @@
+- Git giúp ghép code trong dự án một cách an toàn
+- Kiểm tra lại những thay đổi trong Project
